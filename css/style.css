@@ -1,0 +1,52 @@
+.lobster {
+	font-family: 'Lobster', cursive;
+}
+
+.logo {
+	border: 1px solid #ccc;
+	width: 60px;
+	height: 60px;
+	/*display: inline-block;*/
+	border-radius: 100%;
+	/*position: relative;*/
+	text-align: center;
+    /*background-color: rgba(24, 255, 255, .5);*/
+}
+
+.logo span {
+	font-size: 2em;
+	margin-left: -5px;
+	margin-top: -5px;
+	color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    /*color: black;*/
+}
+
+.jumbotron {
+	background-image: url('../img/lisa-hero-1.jpg'); 
+	background-size: cover;
+	background-position: top;
+}
+
+.jumbotron .container {
+	padding-top: 25%;
+}
+
+.jumbotron {
+
+}
+
+.jumbotron a.btn.btn-secondary-outline {
+    /*background-color: rgba(24, 255, 255, 0.5);*/
+    /*border-color: transparent;*/
+}
+
+.jumbotron a.btn.btn-secondary-outline:hover {
+    /*background-color: rgba(24, 255, 255, .8);*/
+}
+
+.jumbotron a.btn.btn-secondary-outline:focus {
+    /*background-color: rgba(24, 255, 255, .8);*/
+}
