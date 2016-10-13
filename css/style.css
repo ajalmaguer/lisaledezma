@@ -3,11 +3,11 @@
 }
 
 .logo {
-	border: 1px solid #ccc;
+	/*border: 1px solid #ccc;*/
 	width: 60px;
 	height: 60px;
 	/*display: inline-block;*/
-	border-radius: 100%;
+	/*border-radius: 100%;*/
 	/*position: relative;*/
 	text-align: center;
     /*background-color: rgba(24, 255, 255, .5);*/
@@ -49,4 +49,9 @@
 
 .jumbotron a.btn.btn-secondary-outline:focus {
     /*background-color: rgba(24, 255, 255, .8);*/
+}
+
+.lisa-pic {
+    margin-left: auto;
+    margin-right: auto;
 }
